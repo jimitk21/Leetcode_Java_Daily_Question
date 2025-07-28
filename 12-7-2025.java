@@ -1,5 +1,6 @@
 // 1900. The Earliest and Latest Rounds Where Players Compete
 // LeetCode HARD
+import java.util.Arrays;
 
 class Solution {
   public int[] earliestAndLatest(int n, int firstPlayer, int secondPlayer) {
